@@ -6,14 +6,14 @@ class Fish extends Animal {
 
     @Override
     public void move() {
-        System.out.println("swims");
+        System.out.println("swimming");
     }
 
     @Override
     public void eat() {
         System.out.println("algae");
     }
-    
+
     public void moveOnLand() {
         System.out.println("The fish cannot move on land");
     }
