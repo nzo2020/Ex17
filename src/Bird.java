@@ -1,4 +1,4 @@
-class Bird extends Animal {
+public class Bird extends Animal {
 
     @Override
     public void makeSound() {
