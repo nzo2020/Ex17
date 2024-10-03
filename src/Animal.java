@@ -10,5 +10,6 @@ public class Animal {
     public void eat() {
         System.out.println("what does the animal eat");
     }
+
 }
 
